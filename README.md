@@ -1,3 +1,6 @@
+### app url https://60873130fa8e8b00b4646c31--gallant-tesla-28eca7.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
